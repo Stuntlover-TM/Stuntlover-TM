@@ -1,1 +1,5 @@
-![banner](https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)
+# Hello! I am Stuntlover. 👋
+I know Python and I'm currently learning Rust.
+
+## Contact me ✉️
+Discord: Stuntlover#6980
