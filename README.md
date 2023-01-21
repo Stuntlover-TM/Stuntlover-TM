@@ -1,8 +1,8 @@
 # Hello! I am Stuntlover. 👋
-#### I know Python 🐍, Rust. 🦀 and I'm slowly learning C++ 
+#### I know Python 🐍 and Rust 🦀
 
 ## ⌨️ Activity
-#### I'm currently most active in [bf_gui](https://github.com/CodyNinja1/TMIBruteforceGUI)
+#### I'm currently most active in [TMIBruteforceGUI](https://github.com/CodyNinja1/TMIBruteforceGUI), a GUI Wrapper for multiple TMInterface Bruteforce Scripts
 
 ## 💬 Contact me:
 #### 🔵 Discord: Stuntlover#0001
