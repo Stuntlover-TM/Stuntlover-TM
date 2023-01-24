@@ -1,5 +1,5 @@
 # Hello! I am Stuntlover. 👋
-#### I'm a Python and Rust dev 🐍🦀
+#### I know Python and Rust and I'm learning Go 🐍🦀🐉
 
 ## ⌨️ Activity
 #### I'm currently most active in [TMIBruteforceGUI](https://github.com/CodyNinja1/TMIBruteforceGUI), a GUI Wrapper for multiple TMInterface Bruteforce Scripts
